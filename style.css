@@ -1,0 +1,13 @@
+.principal{
+    width: 400px;
+}
+.texto{
+    padding: 4px;
+    border-radius: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.botao{
+    text-align: center;
+    margin-top: 10px;
+}
