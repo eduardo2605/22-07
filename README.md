@@ -1,1 +1,2 @@
-# 22-07
+1) A Semântica HTML é importante para a indexação por mecanismos de busca, pois ajudam os robôs dos mecanismos de busca a entender melhor o conteúdo da página. As tags semânticas permitem que os mecanismos de busca identifiquem facilmente o título da página, o conteúdo principal e as seções secundárias.
+2) O fieldset é usado dentro de um form para agrupar elementos do form que são relacionados. Por padrão ele mostra visualmente esses elementos agrupados dentro de uma caixa com um título.
